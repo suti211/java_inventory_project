@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Products>
+<Product name="Melattica" price="500" size="12" type="CD"/>
+<Product name="Mesterségem a halál" price="1200" size="780" type="Book"/>
+<Product name="Melattica" price="500" size="12" type="CD"/>
+<Product name="Mesterségem a halál" price="1200" size="780" type="Book"/>
+<Product name="Melattica" price="500" size="12" type="CD"/>
+<Product name="Mesterségem a halál" price="1200" size="780" type="Book"/>
+</Products>
